@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: Add features issues
+labels: bug, documentation, enhancement, help wanted, question
+assignees: Rsnipeu
 
 ---
 
