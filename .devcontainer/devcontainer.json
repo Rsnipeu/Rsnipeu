@@ -54,7 +54,5 @@
     "POSTGRES_USER": "devuser",
     "POSTGRES_PASSWORD": "devpass",
     "POSTGRES_DB": "mydb"
-  },
-  "dockerComposeFile": "docker-compose.yml",
-  "service": "app"
+  }
 }
