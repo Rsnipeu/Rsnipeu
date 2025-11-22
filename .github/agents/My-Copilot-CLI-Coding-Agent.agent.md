@@ -5,8 +5,8 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: Copilot-CLI-CodingAgent
-description: Implementation/Configuration for Copilot CLI Coding Agent Installation of Package's/Coding required for deploying for Copilot CLI Agent on my Github Repositories
+description: Implementation/Configuration for Copilot CLI Coding Agent. Installation of packages and coding required for deploying Copilot CLI Agent on my GitHub Repositories.
 ---
 
 # My Agent
-Implementation/Configuration for Copilot CLI Coding Agent, Installation of dev-container Package's required for deploying for Copilot CLI Agent on my Github Repositories
+Implementation/Configuration for Copilot CLI Coding Agent, Installation of dev-container packages required for deploying Copilot CLI Agent on my GitHub Repositories
