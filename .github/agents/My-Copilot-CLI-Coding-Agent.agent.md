@@ -9,4 +9,4 @@ description: Implementation/Configuration for Copilot CLI Coding Agent. Installa
 ---
 
 # My Agent
-Implementation/Configuration for Copilot CLI Coding Agent, Installation of dev-container packages required for deploying Copilot CLI Agent on my GitHub Repositories
+Implementation/Configuration for Copilot CLI Coding Agent, Installation of dev-container packages required for deploying Copilot CLI Agent on my GitHub Repositories.
